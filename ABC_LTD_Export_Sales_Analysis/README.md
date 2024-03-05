@@ -3,10 +3,10 @@ TITLE: Sales in the Era of Ceaseless Preference: The 2019-2022 ABC Ltd's Export 
 OVERVIEW: From uncovering emerging trends to adapting marketing strategies based on diverse perspectives, this analysis positions ABC Ltd to make informed decisions that align with the changing FMCG industry. Also, this report is a data-centric exercise and a strategic initiative designed to empower ABC Ltd with the intelligence needed to navigate the challenges and capitalise on global market opportunities.
 
 OBJECTIVES: This report aims to provide actionable insights into ABC Ltd's international trade landscape by 
-•	exploring country market dynamics, 
-•	evaluating distributor performance and  export sales trends over time, 
-•	examining product performance and identifying high-potential markets, 
-•	analysing factors impacting export sales performance.
+-	exploring country market dynamics, 
+-	evaluating distributor performance and  export sales trends over time, 
+-	examining product performance and identifying high-potential markets, 
+-	analysing factors impacting export sales performance.
 
 KEY FINDINGS
 -	Between 2019 and 2022, the company operated across 30 countries, engaging 54 distributors, facilitating 7,701 orders, and exporting 351 products.
